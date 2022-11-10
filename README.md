@@ -4,6 +4,8 @@ This is a single page iOS application that accepts user input via pickers. It em
 
 User may select temperature, time, length, or volume to convert. 
 
+### Screenshots
+
 [Homepage](Images/Homepage)
 
 [Conversion Types](Images/ConversionTypes)
