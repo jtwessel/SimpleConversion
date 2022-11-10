@@ -8,8 +8,8 @@ User may select temperature, time, length, or volume to convert.
 
 ### Screenshots
 
-[Homepage](Images/Homepage)
+[Homepage](Images/Homepage.png)
 
-[Conversion Types](Images/ConversionTypes)
+[Conversion Types](Images/ConversionTypes.png)
 
-[Unit Types](Images/UnitTypes)
+[Unit Types](Images/UnitTypes.png)
